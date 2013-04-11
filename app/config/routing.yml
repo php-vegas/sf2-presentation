@@ -1,0 +1,5 @@
+sf_pres_blog:
+    resource: "@SfPresBlogBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
